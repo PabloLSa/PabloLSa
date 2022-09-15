@@ -1,6 +1,6 @@
 ### Olá sou Pablo Landim de Sá, apaixonado por tecnologia
 
-- 🔭 Hoje sou estudante Full-Stack 
+- 🔭 Hoje sou estudante Web Full-Stack 
 - 🌱 Estou aprendendo a codar
 
 <div>
