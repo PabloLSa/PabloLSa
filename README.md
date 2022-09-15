@@ -1,4 +1,4 @@
-### Olá sou Pablo Landim de Sá, apaixonado por tecnlogia
+### Olá sou Pablo Landim de Sá, apaixonado por tecnologia
 
 - 🔭 Hoje sou estudante Full-Stack 
 - 🌱 Estou aprendendo a codar
