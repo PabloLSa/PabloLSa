@@ -2,7 +2,7 @@
 ### Olá, sou Pablo Landim de Sá apaixonado por tecnologia
 
 -   🔭 Hoje sou estudante Web Full-Stack 
--   🌱 Estou aprendendo a codar
+-   🌱 Estou aprendendo a codificar
   </div>
 <div align="center">
   <a href="https://github.com/PabloLSa">
