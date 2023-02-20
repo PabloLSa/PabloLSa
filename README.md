@@ -1,16 +1,17 @@
 <div align="center">
 
-Olá! Meu nome é Pablo Landim de Sá, sou um desenvolvedor front-end. Fora do trabalho, eu tenho algumas paixões que adoro compartilhar com meus amigos e familiares.
+Olá! Meu nome é Pablo Landim de Sá, sou um desenvolvedor front-end e estudante full-stack.
+  
+  
+### Desenvolvedor Front-end
+
+Sou um desenvolvedor front-end, com habilidades em HTML, CSS, JavaScript e biblioteca React. Eu amo criar interfaces funcionais que melhoram a experiência do usuário e atendem às necessidades dos clientes.
 
 ### Hobbies 
 
 Uma das minhas maiores paixões é viajar. Eu amo explorar novos lugares, conhecer novas culturas e experimentar diferentes tipos de culinária. Acredito que viajar é uma forma maravilhosa de expandir nossos horizontes e aprender mais sobre o mundo.
 
 Quando estou em casa, adoro passar tempo com minha família e amigos. Nós frequentemente nos reunimos para churrascos e festas. Acredito que compartilhar refeições e experiências com aqueles que amamos é uma das coisas mais importantes da vida.
-
-### Desenvolvedor Front-end
-
-Sou um desenvolvedor front-end, com habilidades em HTML, CSS, JavaScript e biblioteca React. Eu amo criar interfaces incríveis e funcionais que melhoram a experiência do usuário e atendem às necessidades dos clientes.
 
 ### Contato
 Se você quiser entrar em contato comigo para discutir um projeto de desenvolvimento front-end ou simplesmente compartilhar suas experiências front-end, sinta-se à vontade para me contatar por meio do meu email: pablolandimdesa@gmail.com. Estou sempre interessado em conhecer novas pessoas e aprender coisas novas.
