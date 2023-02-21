@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Pablo+Landim+de+Sá;+Seja+bem+vindo+ao+meu+GITHUB+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Pablo+Landim+de+Sá;+Seja+bem+vindo+ao+meu+Github+:%29)](https://git.io/typing-svg)
    </div>
 <div align="center">
   <a href="https://github.com/PabloLSa">
