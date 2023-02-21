@@ -9,7 +9,6 @@ Sou um desenvolvedor front-end, com habilidades em HTML, CSS, JavaScript e bibli
 
 ### Hobbies 
 Uma das minhas maiores paixões é viajar. Eu amo explorar novos lugares, conhecer novas culturas e experimentar diferentes tipos de culinária. Acredito que viajar é uma forma maravilhosa de expandir nossos horizontes e aprender mais sobre o mundo.
-
 Quando estou em casa, adoro passar tempo com minha família e amigos. Nós frequentemente nos reunimos para churrascos e festas. Acredito que compartilhar refeições e experiências com aqueles que amamos é uma das coisas mais importantes da vida.
 
   </div>
