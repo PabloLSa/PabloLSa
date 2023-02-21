@@ -13,8 +13,6 @@ Uma das minhas maiores paixões é viajar. Eu amo explorar novos lugares, conhec
 
 Quando estou em casa, adoro passar tempo com minha família e amigos. Nós frequentemente nos reunimos para churrascos e festas. Acredito que compartilhar refeições e experiências com aqueles que amamos é uma das coisas mais importantes da vida.
 
-### Contato
-Se você quiser entrar em contato comigo para discutir um projeto de desenvolvimento front-end ou simplesmente compartilhar suas experiências front-end, sinta-se à vontade para me contatar por meio do meu email: pablolandimdesa@gmail.com. Estou sempre interessado em conhecer novas pessoas e aprender coisas novas.
   </div>
 <div align="center">
   <a href="https://github.com/PabloLSa">
