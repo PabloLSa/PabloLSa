@@ -41,7 +41,7 @@ Uma das minhas maiores paixões e vonatde é viajar. Eu amo explorar novos lugar
   
 Quando estou em casa, adoro passar tempo com minha família e amigos. Nós frequentemente nos reunimos para churrascos e festas. Acredito que compartilhar refeições e experiências com aqueles que amamos é uma das coisas mais importantes da vida.
   
-  ## Contato
+  ## Contatos
   
 <a href="https://www.linkedin.com/in/pablo-landim-de-sá-99267454" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:pablolandimdesa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
