@@ -5,7 +5,7 @@ Olá! Meu nome é Pablo Landim de Sá, sou um desenvolvedor front-end e estudant
   
 ### Desenvolvedor Front-end
 
-Sou um desenvolvedor front-end, com habilidades em HTML, CSS, JavaScript e biblioteca React. Eu amo criar interfaces funcionais que melhoram a experiência do usuário e atendem às necessidades dos clientes.
+Sou um desenvolvedor front-end, com habilidades em HTML, CSS, JavaScript e biblioteca React. Minha maior vontade hoje é começar atuar literalmente como profissiional!!
 
 ### Hobbies 
 
