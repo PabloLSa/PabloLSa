@@ -2,11 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Pablo+Landim+de+Sá;+Seja+bem+vindo+ao+meu+Github+:%29)](https://git.io/typing-svg)
    </div>
+   
+   ## 🌟 Github Stats
+   
+ <p align="center">
 <div align="center">
   <a href="https://github.com/PabloLSa">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=PabloLSa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" / >
     <img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloLSa&layout=compact&langs_count=7&theme=dracula"/>
     <div>
+       <p>
   
   
 ### Desenvolvedor Front-end
