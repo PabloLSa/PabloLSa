@@ -19,6 +19,8 @@
 Sou um desenvolvedor front-end, com habilidades em HTML, CSS, JavaScript e biblioteca React. Minha maior vontade hoje é conseguir meu primeiro emprego front-end!!
        <div style="display: inline_block"><br>
           
+### Ferramentas e tecnologias que utilizo:      
+          
    <img align="center"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">      
  <img align="center"  src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" style="margin-bottom: 4px;" height="30px">
 <img align="center"  src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="margin-bottom: 4px;" height="30px">
