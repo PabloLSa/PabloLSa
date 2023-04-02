@@ -16,7 +16,7 @@
   
 ### Desenvolvedor Front-end
 
-Sou um desenvolvedor front-end, minhas maiores habilidades são CSS, e biblioteca React. Vivo mas busca de me tornar um front-end cada vez melhor!! E estou caminhando para Full-Stack!!!
+Sou um desenvolvedor front-end, minhas maiores habilidades são CSS, e biblioteca React. Vivo na busca de me tornar um front-end cada vez melhor!! E estou caminhando para Full-Stack!!!
        <div style="display: inline_block"><br>
           
 ### Ferramentas e tecnologias que utilizo:      
