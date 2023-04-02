@@ -16,7 +16,7 @@
   
 ### Desenvolvedor Front-end
 
-Sou um desenvolvedor front-end, com habilidades em HTML, CSS, JavaScript e biblioteca React. Minha maior vontade hoje é conseguir meu primeiro emprego front-end!!
+Sou um desenvolvedor front-end, minhas maiores habilidades são CSS, e biblioteca React. Vivo mas busca de me tornar um front-end cada vez melhor!
        <div style="display: inline_block"><br>
           
 ### Ferramentas e tecnologias que utilizo:      
