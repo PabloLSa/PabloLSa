@@ -37,11 +37,6 @@ Sou um desenvolvedor front-end, minhas maiores habilidades são CSS, e bibliotec
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <br>
 <h2>
-
-### Hobbies 
-Uma das minhas maiores paixões e vonatde é viajar. Eu amo explorar novos lugares, conhecer novas culturas e experimentar diferentes tipos de culinária. Acredito que viajar é uma forma maravilhosa de expandir nossos horizontes e aprender mais sobre o mundo.
-  
-Quando estou em casa, adoro passar tempo com minha família e amigos. Nós frequentemente nos reunimos para churrascos e festas. Acredito que compartilhar refeições e experiências com aqueles que amamos é uma das coisas mais importantes da vida.
   
   ## Contatos
   
