@@ -16,7 +16,7 @@
   
 ### Desenvolvedor Front-end
 
-Sou um desenvolvedor front-end, minhas maiores habilidades são CSS, e biblioteca React. Vivo na busca de me tornar um front-end cada vez melhor!! E estou caminhando para Full-Stack!!!
+Sou um desenvolvedor web, minhas maiores habilidades são CSS, e biblioteca React. Vivo na busca de me tornar um front-end cada vez melhor!! E estou caminhando para Full-Stack!!!
        <div style="display: inline_block"><br>
           
 ### Ferramentas e tecnologias que utilizo:      
@@ -38,10 +38,11 @@ Sou um desenvolvedor front-end, minhas maiores habilidades são CSS, e bibliotec
 <br>
 <h2>
    
-  ## Contatos
+  ## Melhor contato
   
 <a href='https://www.linkedin.com/in/pablolandimdesadev/'><img width=20% src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a>
 <a align="right" href='https://www.linkedin.com/in/carloshtbraga/'>
 </h2>
+
 
 <div>
