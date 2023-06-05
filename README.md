@@ -40,9 +40,8 @@ Sou um desenvolvedor front-end, minhas maiores habilidades são CSS, e bibliotec
    
   ## Contatos
   
-    <a href = "mailto:pablolandimdesa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</a> 
+<a href='https://www.linkedin.com/in/pablolandimdesadev/'><img width=20% src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a>
+<a align="right" href='https://www.linkedin.com/in/carloshtbraga/'>
 </h2>
 
 <div>
