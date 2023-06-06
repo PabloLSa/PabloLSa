@@ -14,7 +14,7 @@
 ## Desenvolvedor Front-end
 
 Sou um desenvolvedor web, minhas maiores habilidades são CSS, e biblioteca React. Vivo na busca de me tornar um desenvolvedor web cada vez melhor!! 
-É previsto que em setembro de 2023 me torno Full-Stack!!!
+É previsto que em setembro de 2023 já serei Full-Stack!!!
        <div style="display: inline_block"><br>
           
    
