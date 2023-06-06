@@ -37,8 +37,39 @@ Sou um desenvolvedor web, minhas maiores habilidades são CSS, e biblioteca Reac
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <br>
 <h2>
-   
+<br>
+
+<h1 align="center">Projetos</h1>
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/PabloLSa/Trybe-Wallet">💸Wallet</a></h2>
+      <a href="https://trybe-wallet-ten.vercel.app//"><img width="100%" src="./Wallet.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>💡Tecnologias utilizadas:</strong> React (redux, components), HTML, CSS Module e API Rest</em></p>
+      <p>💰 Aplicação de conversão de moedas</p>
+    </td>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://github.com/PabloLSa/TrybeTunes">🔊 Tunes</a></h2>
+      <a href="https://trybe-tunes-phi.vercel.app/"><img width="100%" src="./Tunes.png" alt="Project-preview" /></a>
+      <br>
+      <br>
+      <p><em><strong>💡Tecnologias utilizadas:</strong> React (router, components),CCS3,React-Bootstrap, </em></p>
+      <p>🎶 Aplicação para ouvir pouco da melodia escolhida, som vem da API da Apple</p>
+    </td>
+  </tr>
+  <tr>
+    <table>
+    <br>
+    <br>
+
+
   ## Melhor contato
+  
+  <h1 align="center"></h1> 
+  
   
 <a href='https://www.linkedin.com/in/pablolandimdesadev/'><img width=20% src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a>
 <a align="right" href='https://www.linkedin.com/in/carloshtbraga/'>
