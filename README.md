@@ -66,9 +66,9 @@ Sou um desenvolvedor web, minhas maiores habilidades são CSS, e biblioteca Reac
     <br>
 
 
-  ## Melhor contato
   
-  <h1 align="center"></h1> 
+  ## Melhor contato
+  <h1>👇</h1> 
   
   
 <a href='https://www.linkedin.com/in/pablolandimdesadev/'><img width=20% src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a>
