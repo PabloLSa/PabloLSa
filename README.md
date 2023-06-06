@@ -56,7 +56,7 @@ Sou um desenvolvedor web, minhas maiores habilidades são CSS, e biblioteca Reac
       <a href="https://trybe-tunes-phi.vercel.app/"><img width="100%" src="./Tunes.png" alt="Project-preview" /></a>
       <br>
       <br>
-      <p><em><strong>💡Tecnologias utilizadas:</strong> React (router, components),CCS3,React-Bootstrap, </em></p>
+      <p><em><strong>💡Tecnologias utilizadas:</strong> React (router, components),CSS3,React-Bootstrap, </em></p>
       <p>🎶 Aplicação para ouvir pouco da melodia escolhida, som vem da API da Apple</p>
     </td>
   </tr>
