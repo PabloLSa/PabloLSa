@@ -2,6 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Sou+Pablo+Landim+de+Sá;+Seja+bem+vindo+ao+meu+Github!!)](https://git.io/typing-svg)
    </div>
+
+  ## Melhor contato
+  <h1>👇</h1> 
+    
+<a href='https://www.linkedin.com/in/pablolandimdesadev/'><img width=20% src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a>
+
+
+<br>
+
+## Desenvolvedor Front-end
+
+Sou um desenvolvedor web, minhas maiores habilidades são CSS, e biblioteca React. Vivo na busca de me tornar um desenvolvedor web cada vez melhor!! 
+É previsto que em setembro de 2023 me torno Full-Stack!!!
+       <div style="display: inline_block"><br>
+          
    
    ## 🌟 Github Stats
    
@@ -12,13 +27,7 @@
     <img width="41%" height="195px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloLSa&layout=compact&langs_count=7&theme=dracula"/>
     <div>
        <p>
-  
-  
-### Desenvolvedor Front-end
 
-Sou um desenvolvedor web, minhas maiores habilidades são CSS, e biblioteca React. Vivo na busca de me tornar um front-end cada vez melhor!! E estou caminhando para Full-Stack!!!
-       <div style="display: inline_block"><br>
-          
 ### Ferramentas e tecnologias que utilizo:      
           
    <img align="center"  src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" style="margin-bottom: 4px;" height="30px">      
@@ -64,16 +73,4 @@ Sou um desenvolvedor web, minhas maiores habilidades são CSS, e biblioteca Reac
     <table>
     <br>
     <br>
-
-
-  
-  ## Melhor contato
-  <h1>👇</h1> 
-  
-  
-<a href='https://www.linkedin.com/in/pablolandimdesadev/'><img width=20% src='https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif'></a>
-<a align="right" href='https://www.linkedin.com/in/carloshtbraga/'>
-</h2>
-
-
 <div>
