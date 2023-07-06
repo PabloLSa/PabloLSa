@@ -79,7 +79,7 @@ Sou um desenvolvedor web apaixonado em busca constante de aprimoramento. Minhas 
     </tr>
     <tr>
     <td valign="top" width="50%">
-      <h2 align="center"><a href="https://trivia-pablolsa.vercel.app/">❓Trivia</a></h2>
+      <h2 align="center"><a href="https://github.com/PabloLSa/Trivia/">❓Trivia</a></h2>
       <a href="https://trivia-pablolsa.vercel.app/"><img width="100%" src="./Trivia.png" alt="Project-preview" /></a>
       <br>
       <p><em><strong>💡Tecnologias utilizadas:</strong> React (react-redux, components),CSS</em></p>
