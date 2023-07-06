@@ -77,6 +77,15 @@ Sou um desenvolvedor web apaixonado em busca constante de aprimoramento. Minhas 
       <p>🎶 Aplicação para ouvir pouco da melodia escolhida, som vem da API da Apple</p>
     </td>
     </tr>
+    <tr>
+    <td valign="top" width="50%">
+      <h2 align="center"><a href="https://trivia-pablolsa.vercel.app/">❓Trivia</a></h2>
+      <a href="https://trivia-pablolsa.vercel.app/"><img width="100%" src="./Trivia.png" alt="Project-preview" /></a>
+      <br>
+      <p><em><strong>💡Tecnologias utilizadas:</strong> React (react-redux, components),CSS</em></p>
+      <p>🃏 Desenvolvemos um jogo de perguntas e respostas baseado no jogo Trivia, parecido um show do milhão americano, utilizando React e Redux.</p>
+    </td>
+    </tr>
     <table>
     <br>
 
