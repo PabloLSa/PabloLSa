@@ -13,7 +13,7 @@
 
 ## Desenvolvedor Front-end
 
-Sou um desenvolvedor web apaixonado em busca constante de aprimoramento. Minhas maiores habilidades são CSS e React, e meu objetivo é me tornar um desenvolvedor Full-Stack até Novembro de 2023. A combinação do CSS para design e do React para componentes interativos me permite criar experiências incríveis. Estou sempre sedento por desafios e aprendizado contínuo, buscando oportunidades para expandir meus conhecimentos. Com dedicação e vontade de evoluir, estou confiante de que alcançarei meu objetivo e me tornarei um desenvolvedor web completo.
+Sou um desenvolvedor web apaixonado em busca constante de aprimoramento. Minhas maiores habilidades são CSS e React, me tornei um desenvolvedor Full-Stack em Novembro de 2023. A combinação do CSS para design e do React para componentes interativos me permite criar experiências incríveis. Estou sempre sedento por desafios e aprendizado contínuo, buscando oportunidades para expandir meus conhecimentos. Com dedicação e vontade de evoluir, estou confiante de que alcançarei meu objetivo e me tornarei um desenvolvedor web completo.
        <div style="display: inline_block"><br>
           
    
